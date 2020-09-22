@@ -233,7 +233,7 @@ In this exercise, you will deploy Azure infrastructure compute components necess
 
 5.  From the **az12001a-vm0** blade, navigate to the **az12001a-vm0 | Disks** blade.
 
-6.  From the **az12001a-vm0 | Disks** blade, attach data disks with the following settings to az12001a-vm0:
+6.  From the **az12001a-vm0 | Disks** blade, select **Attach existing disks** and attach data disk with the following settings to az12001a-vm0:
 
    - LUN: **0**
 
@@ -251,7 +251,7 @@ In this exercise, you will deploy Azure infrastructure compute components necess
 
 10.  From the **az12001a-vm1** blade, navigate to the **az12001a-vm1 | Disks** blade.
 
-11.  From the **az12001a-vm1 | Disks** blade, attach data disks with the following settings to az12001a-vm1:
+11.  From the **az12001a-vm1 | Disks** blade, select **Attach existing disks** and attach data disk with the following settings to az12001a-vm1:
 
    - LUN: **0**
 
